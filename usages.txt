@@ -1,0 +1,1 @@
+use gcc -o file name c file name -lpthread -static
